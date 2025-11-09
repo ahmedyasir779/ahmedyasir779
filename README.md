@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmed Yasir (Dee)!
 
-**Former Back-end Developer → AI/ML Engineer in Training**
+**Former Back-end Developer → AI/ML Engineer**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+AI+Systems+in+Public;RAG+%7C+Fine-Tuning+%7C+Arabic+NLP;Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
