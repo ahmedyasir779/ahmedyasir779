@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Building+AI+Systems+in+Public;RAG+%7C+Fine-Tuning+%7C+Arabic+NLP;Always+Learning.+Always+Shipping." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-yasir-907561206/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8JhdzgzP)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/r83sKURyBF)
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedyasir779&color=blueviolet)
 
 </div>
