@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:00d9ff&amp;height=220&amp;section=header&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;desc=Full%20Stack%20%26%20AI%20Engineer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Arabic%20AI&amp;descSize=16&amp;descAlignY=55&amp;descColor=58a6ff&amp;animation=fadeIn" width="100%" />
 
-<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Production+AI+Systems+%7C+Voice+AI+%7C+RAG;Cybersecurity+SaaS+%7C+Threat+Detection;Arabic+NLP+%7C+Computer+Vision+%7C+Healthcare+AI;.NET+%7C+Blazor+%7C+FastAPI+%7C+Microservices" alt="Typing SVG" />
 
