@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ahmed+Yasir+(Dee);Production+AI+Systems+%7C+Voice+AI+%7C+RAG;Cybersecurity+SaaS+%7C+Threat+Detection;Arabic+NLP+%7C+Computer+Vision+%7C+Healthcare+AI;.NET+%7C+Blazor+%7C+FastAPI+%7C+Microservices" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=400&lines=Ahmed+Yasir+(Dee)" alt="Typing SVG" />
 
 <br/>
 
