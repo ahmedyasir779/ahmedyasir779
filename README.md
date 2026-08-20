@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Production+AI+Systems+%7C+Voice+AI+%7C+RAG;Cybersecurity+SaaS+%7C+Threat+Detection;Arabic+NLP+%7C+Computer+Vision+%7C+Healthcare+AI;.NET+%7C+Blazor+%7C+FastAPI+%7C+Microservices" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Back-End+%26+Integration+Engineer;Production+AI+Systems+%7C+Voice+AI+%7C+RAG;Arabic+NLP+%7C+Computer+Vision+%7C+Healthcare+AI;.NET+%7C+Blazor+%7C+FastAPI+%7C+Microservices" alt="Typing SVG" />
 
 <br/>
 
